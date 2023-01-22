@@ -1,0 +1,27 @@
+#main{
+    height:100%;
+    width:100%;
+    position: absolute;
+    
+} 
+#main2{
+    height:1366px;
+    width:768px;
+    position: absolute;
+    z
+} 
+a{
+    margin: 2px;
+    padding: 100px;
+}
+body{
+    background:url(bg.jpg) no-repeat center center fixed;
+    background-color: blanchedalmond;
+    background-size: cover;
+}
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    padding :100px;
+}
